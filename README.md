@@ -2,11 +2,6 @@
 
 ### Software Architect • Senior Software Engineer • DevOps & Data
 
-📍 Sumaré, SP - Brazil | ✉️ viniciusmrsilva@outlook.com  
-🔗 [LinkedIn](https://linkedin.com/in/viniciusmarinheiro) | 💻 [GitHub](https://github.com/ViniciusMarinheiro)
-
----
-
 ## 🎯 Professional Summary
 
 Results-driven **Software Architect** and **Senior Software Engineer** with over 4 years of experience delivering scalable, secure, and high-performance solutions in enterprise environments. Specialized in **Azure Cloud**, **Databricks**, **Microservices**, **Microfrontends**, and **DevOps pipelines (Docker/Kubernetes)**.
