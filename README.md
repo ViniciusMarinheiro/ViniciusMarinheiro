@@ -4,7 +4,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Software Architect** and **Senior Software Engineer** with over 4 years of experience delivering scalable, secure, and high-performance solutions in enterprise environments. Specialized in **Azure Cloud**, **Databricks**, **Microservices**, **Microfrontends**, and **DevOps pipelines (Docker/Kubernetes)**.
+Results-driven **Software Architect** and **Senior Software Engineer** with over 5 years of experience delivering scalable, secure, and high-performance solutions in enterprise environments. Specialized in **Azure Cloud**, **Databricks**, **Microservices**, **Microfrontends**, and **DevOps pipelines (Docker/Kubernetes)**.
 
 Proven expertise in leading cross-functional engineering teams, defining event-driven and Clean Architecture standards, and optimizing cloud costs (FinOps). Seeking a challenging Software Architecture or Senior Software Engineering role in the Netherlands technology sector under the Highly Skilled Migrant (*Kennismigrant*) scheme.
 
